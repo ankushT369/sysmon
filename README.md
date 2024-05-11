@@ -17,7 +17,7 @@ To compile and run this program, you need:
 
 3. Compile the program using the provided Makefile: ```~$ make```
 
-4. Run ```~$ ./main <pid>```
+4. Run ```~$ sudo ./main <pid>```
 
 
 ## Usage
